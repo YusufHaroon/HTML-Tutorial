@@ -1,0 +1,14 @@
+body{
+    background-color: beige;
+}
+
+/* In order to specify the css properties by using id we use # */
+/* In order to specify the css properties by using class we use . */
+
+#title{
+    color: blueviolet;
+}
+
+.lyrics{
+    color: crimson;
+}
